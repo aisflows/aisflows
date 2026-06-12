@@ -12,5 +12,3 @@ What I publish here:
 - skill packs and presets when they are ready
 - local AI tool experiments
 - useful pieces from my own process
-
-Main channel: https://t.me/aisflows
